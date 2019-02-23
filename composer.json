@@ -1,0 +1,33 @@
+{
+    "name": "defro/fanart-api",
+    "description": "FanArt API library",
+    "type": "library",
+    "homepage": "https://github.com/defro/google-streeview",
+    "keywords":
+    [
+        "fanart",
+        "movie",
+        "tvseries",
+        "image"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joël Gaujard",
+            "email": "j.gaujard@gmail.com",
+            "role": "Developer",
+            "homepage": "https://defro.github.io"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.1",
+        "ext-json": "*",
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Defro\\FanArt\\": "src"
+        }
+    }
+}

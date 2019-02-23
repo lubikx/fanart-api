@@ -1,0 +1,9 @@
+# Application
+/.env
+
+# Composer
+/vendor
+/composer.phar
+
+# IDE
+/.idea
