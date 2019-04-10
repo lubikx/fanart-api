@@ -2,7 +2,7 @@
     "name": "defro/fanart-api",
     "description": "FanArt API library",
     "type": "library",
-    "homepage": "https://github.com/defro/google-streeview",
+    "homepage": "https://github.com/defro/fanart-api",
     "keywords":
     [
         "fanart",
